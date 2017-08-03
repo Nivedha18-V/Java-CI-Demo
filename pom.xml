@@ -3,13 +3,13 @@
   <groupId>com.first.web</groupId>
   <artifactId>MAVENWEBPROJECT</artifactId>
   <packaging>war</packaging>
-  <version>0.0.10</version>
+  <version>0.0.11-SNAPSHOT</version>
   <name>MAVENWEBPROJECT Maven Webapp</name>
   <url>http://maven.apache.org</url>
       <scm>
      <connection>scm:git:https://github.com/Nivedha18-V/Java-CI-Demo.git</connection>
      <url>scm:git:https://github.com/Nivedha18-V/Java-CI-Demo.git</url>
-    <tag>MAVENWEBPROJECT-0.0.10</tag>
+    <tag>MAVENWEBPROJECT-0.0.11</tag>
   </scm>
   
    <!--distributionManagement>
